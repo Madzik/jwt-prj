@@ -1,4 +1,4 @@
-package com.jwt.prj.springjwt;
+package com.jwt.prj.springjwt.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
